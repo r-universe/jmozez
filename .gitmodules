@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jmozez/jmozez.r-universe.dev
 	branch = HEAD
+[submodule "tidydiversity"]
+	path = tidydiversity
+	url = https://github.com/jmozez/tidydiversity
+[submodule "tidymapr"]
+	path = tidymapr
+	url = https://github.com/jmozez/tidymapr
