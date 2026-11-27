@@ -20,6 +20,9 @@
 [submodule "tidymetr"]
 	path = tidymetr
 	url = https://github.com/jmozez/tidymetr
+[submodule "tidysoilr"]
+	path = tidysoilr
+	url = https://github.com/jmozez/tidysoilr
 [submodule "tidyvisor"]
 	path = tidyvisor
 	url = https://github.com/jmozez/tidyvisor
