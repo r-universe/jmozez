@@ -2,9 +2,24 @@
 	path = .registry
 	url = https://github.com/jmozez/jmozez.r-universe.dev
 	branch = HEAD
+[submodule "tidybiotek"]
+	path = tidybiotek
+	url = https://github.com/jmozez/tidybiotek
 [submodule "tidydiversity"]
 	path = tidydiversity
 	url = https://github.com/jmozez/tidydiversity
+[submodule "tidyepidemio"]
+	path = tidyepidemio
+	url = https://github.com/jmozez/tidyepidemio
+[submodule "tidyinvasion"]
+	path = tidyinvasion
+	url = https://github.com/jmozez/tidyinvasion
 [submodule "tidymapr"]
 	path = tidymapr
 	url = https://github.com/jmozez/tidymapr
+[submodule "tidymetr"]
+	path = tidymetr
+	url = https://github.com/jmozez/tidymetr
+[submodule "tidyvisor"]
+	path = tidyvisor
+	url = https://github.com/jmozez/tidyvisor
